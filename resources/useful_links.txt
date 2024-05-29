@@ -3,3 +3,5 @@ https://saturncloud.io/blog/a-comprehensive-guide-to-convolutional-neural-networ
 https://pytorch.org/tutorials/recipes/recipes/defining_a_neural_network.html
 
 https://pyimagesearch.com/2021/07/19/pytorch-training-your-first-convolutional-neural-network-cnn/
+
+https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
