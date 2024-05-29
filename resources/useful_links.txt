@@ -1,3 +1,5 @@
 https://saturncloud.io/blog/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way/
 
 https://pytorch.org/tutorials/recipes/recipes/defining_a_neural_network.html
+
+https://pyimagesearch.com/2021/07/19/pytorch-training-your-first-convolutional-neural-network-cnn/
